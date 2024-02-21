@@ -1,3 +1,3 @@
 ### About me
 
-<img src="https://img.shields.io/badge/#232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonaws?style=flat&logo=#232F3E&logoColor=white"/>
