@@ -1,6 +1,9 @@
-### About me
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi Github!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
@@ -8,31 +11,4 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
-# My Tech Stack
 
-## Platforms & Languages
-- Java
-- HTML5
-- CSS3
-- Oracle SQL
-- JavaScript
-- jQuery
-- Spring
-
-## AWS
-I have experience working with AWS services.
-
-## Tools
-- Eclipse IDE
-- Visual Studio Code
-- SVN
-- Tomcat
-- GitHub
-
-## Bootstrap
-I utilize Bootstrap for front-end development.
-
-## SNS & Portfolio
-- [Blog](https://yourblog.com)
-- [Mail](mailto:youremail@example.com)
-- [Portfolio](https://yourportfolio.com)
