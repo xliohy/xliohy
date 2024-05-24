@@ -23,8 +23,8 @@
     "blabla..."
   ],
   "preferLanguages": [
-    { "name": "TypeScript", "percent": 37.59 },
-    { "name": "JavaScript", "percent": 19.5 },
+    { "name": "Python", "percent": 37.59 },
+    { "name": "Java", "percent": 19.5 },
     { "name": "Go", "percent": 5.88 }
   ],
   "funFacts": {
