@@ -35,6 +35,6 @@
 }
 ```
 
-<p align="right">[![GitHub Streak](https://streak-stats.demolab.com?user=unicornhttps&theme=dark&hide_border=%EA%B1%B0%EC%A7%93)](https://git.io/streak-stats)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&multiline=true&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Solution+Architect+;That+is+my+Dream.)](https://git.io/typing-svg)</p> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=unicornhttps&theme=dark&hide_border=%EA%B1%B0%EC%A7%93)](https://git.io/streak-stats)
+<p align="right">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&multiline=true&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Solution+Architect+;That+is+my+Dream.)](https://git.io/typing-svg)</p> 
 
