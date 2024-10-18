@@ -35,21 +35,10 @@
 ```
 ---
 
-<details>
-  <summary>🔥 GitHub Readme Streak Stats (click me)</summary>
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=unicornhttps&theme=calm-pink" alt="GitHub Streak">
-    </a>
-  </p>
-</details>
-<details>
-  <summary>⌨️ Readme Typing SVG (click me)</summary>
   <p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&random=false&width=435&lines=%22My+dream+is+Solutions+;Architect.%22" alt="Typing SVG">
     </a>
   </p>
-</details>
 
 ---
