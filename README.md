@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cordel1us&label=Profile%20views&color=0e75b6&style=flat" alt="cordel1us" /> </p> 
 <sub>Korean backend programmer & cloud architect.</sub>  
 
-<sub>✉️ [opensource@gmail.com](aws.alcooudq@gmail.com) / :link: [https://www.youtube.com](https://www.youtube.com/@sunggukhong-gmstcl)</sub>
+<sub>✉️ [opensource@gmail.com](gmail:aws.alcooudq@gmail.com) / :link: [https://www.youtube.com](https://www.youtube.com/@sunggukhong-gmstcl)</sub>
 
 ```json
 {
