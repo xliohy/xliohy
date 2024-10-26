@@ -33,6 +33,8 @@
   }
 }
 ```
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dispineX&theme=github)](https://github.com/dispineX)
+
 ---
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+only+easy+day+was+yesterday." alt="Typing SVG" /></a>
 ---
