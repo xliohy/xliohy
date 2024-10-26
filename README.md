@@ -34,11 +34,5 @@
 }
 ```
 ---
-
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&multiline=true&random=false&width=435&lines=%22My+dream+is+Solutions+;Architect.%22" alt="Typing SVG">
-    </a>
-  </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+only+easy+day+was+yesterday." alt="Typing SVG" /></a>
 ---
