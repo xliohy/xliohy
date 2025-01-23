@@ -36,8 +36,3 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmstcl&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
-
----
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+only+easy+day+was+yesterday." alt="Typing SVG" /></a>
----
-
