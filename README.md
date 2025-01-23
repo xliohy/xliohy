@@ -29,7 +29,7 @@
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
     "semicolon": "is useless. remove it (change my mind also)",
-    "blog": "https://github.com/unicornhttps"
+    "blog": "https://github.com/gmstcl"
   }
 }
 ```
