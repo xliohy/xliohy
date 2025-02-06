@@ -17,9 +17,7 @@
   "techStack": ["AWS", "Nginx", "Node.js", "Kubernetes", "Golang", "Python"],
   "locale": "ko-KR, Korea (North or South depends on how you behave.)",
   "awards": [
-    "Worldskills KR 2025 Cloud Computing(AWS) Gold medalist candidates",
-    "AWS Certified Solutions Architect - Associate candidates"
-    "blabla..."
+    "Null...."
   ],
   "preferLanguages": [
     { "name": "Python", "percent": 37.59 },
