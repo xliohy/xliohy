@@ -9,7 +9,7 @@
 
 ```json
 {
-  "name": "Sung-Guk Hong",
+  "name": "Sungguk Hong",
   "birthYear": 2007,
   "career": [
     "null"
@@ -20,14 +20,15 @@
     "Null...."
   ],
   "preferLanguages": [
-    { "name": "Python", "percent": 37.59 },
+    { "name": "Python", "percent": 53.59 },
     { "name": "Java", "percent": 19.5 },
     { "name": "Go", "percent": 5.88 }
   ],
   "funFacts": {
     "tabIs": "2 spaces (change my mind)",
     "semicolon": "is useless. remove it (change my mind also)",
-    "blog": "https://github.com/gmstcl"
+    "blog": "https://github.com/gmstcl",
+    "youtube": "https//youtube.com/@skills-cloud"
   }
 }
 ```
