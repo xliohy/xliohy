@@ -3,7 +3,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cordel1us&label=Profile%20views&color=0e75b6&style=flat" alt="xliohy" /> </p> 
-<sub>Korean backend programmer & cloud architect.</sub>  
+<sub>cloud architect & DevOps.</sub>  
 
 <sub>✉️ [opensource@gmail.com](mailto:as.xliohy@gmail.com) / :link: [https://www.youtube.com](https://www.youtube.com/@skills-cloud)</sub>
 
